@@ -1,0 +1,18 @@
+node_modules/
+logs/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.env
+.env.*
+account.json
+token.txt
+proxy.txt
+*.log
+.grok/
+
+# Exclusive main bot — keep local only, do not publish
+bot.js
+bot.py
+requirements.txt

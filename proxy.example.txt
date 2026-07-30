@@ -1,0 +1,3 @@
+# Optional — one proxy per line, same order as accounts in account.json
+# http://user:pass@host:port
+# socks5://user:pass@host:port

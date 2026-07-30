@@ -1,0 +1,8 @@
+[
+  {
+    "access_token": "PASTE_ACCESS_TOKEN",
+    "refresh_token": "PASTE_REFRESH_TOKEN",
+    "stake_min": 50,
+    "stake_max": 100
+  }
+]
